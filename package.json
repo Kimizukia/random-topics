@@ -1,0 +1,24 @@
+{
+  "name": "random-topics",
+  "version": "1.0.0",
+  "description": "Returns random Topics!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimizukia/random-topics.git"
+  },
+  "keywords": [
+    "Random",
+    "Random-Topics",
+    "Topics"
+  ],
+  "author": "Kimizukia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kimizukia/random-topics/issues"
+  },
+  "homepage": "https://github.com/Kimizukia/random-topics#readme"
+}
