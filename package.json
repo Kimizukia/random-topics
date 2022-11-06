@@ -1,6 +1,6 @@
 {
   "name": "random-topics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns random Topics!",
   "main": "index.js",
   "scripts": {
